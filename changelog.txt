@@ -1,0 +1,40 @@
+Reprted Usernames Checker with Text Files 3.6 – Changelog
+
+Version 1.0.0 – 2026-02-28
+- Initial release of Reprted Usernames Checker with Text Files 3.6
+- Added basic username checking functionality
+- Supports text file input for batch processing
+- Simple logging of reported usernames
+- Basic GUI interface with Tkinter
+- Initial error handling and notifications
+
+Version 1.0.1 – 2026-03-01
+- Added license validation popup for enterprise usage
+- Improved GUI style with professional color themes
+- Fixed minor bugs in file reading
+- Enhanced logging of results with timestamps
+
+Version 1.0.2 – 2026-03-03
+- Added auto-update system for software
+- Implemented professional license-required popup with developer contact
+- Improved performance when checking large username lists
+- Added detailed status messages in the GUI
+
+Version 1.0.3 – 2026-03-04
+- Optimized threading for faster username processing
+- Fixed issue with GUI freezing during large file loads
+- Added changelog display in updater window
+- Improved readability of logs and status messages
+
+Version 1.0.4 – 2026-03-05
+- Added dark mode toggle in updater and main GUI
+- Enhanced error handling for network failures in updater
+- Updated developer contact info for WhatsApp support
+- Minor UI improvements for better user experience
+
+Version 1.0.5 – 2026-03-06
+- Improved stability and smooth performance
+- Added confirmation before overwriting output files
+- Enhanced auto-update system for seamless version upgrades
+- Bug fixes related to license activation and validation
+- General performance improvements and optimizations
